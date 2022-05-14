@@ -1,1 +1,1 @@
-# 21color.github.io
+#blog
